@@ -1,0 +1,1 @@
+This Project illustrates a basic website build where you can use the navbar to explore different pages to interat with making/edit tasks. There is a page for all the tasks, the task dashboard, then there is a details page, creation of tasks page, task editing page, a register page, and an authentication/login page. 
